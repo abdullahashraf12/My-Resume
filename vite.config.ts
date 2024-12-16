@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base:"/My-Resume/"
+  base: '/My-Resume/', // Correctly set to your repository name
 });
